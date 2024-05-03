@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi 👋
+
+I'm Bradlee
+
+* I'm a recent graduate with a master's in Electrical and Computer Engineering. 
+
+<!--* Soon to be PhD?-->
+
+* I like to code.
 
 <!--
 **bradleeharr/bradleeharr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
