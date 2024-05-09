@@ -2,7 +2,7 @@
 
 I'm Bradlee
 
-* I'm a recent graduate with a master's in Electrical and Computer Engineering. 
+<!--I recently got with a master's in Electrical and Computer Engineering. -->
 
 <!--* Soon to be PhD?-->
 
