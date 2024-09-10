@@ -2,11 +2,10 @@
 
 I'm Bradlee
 
-<!--I recently got with a master's in Electrical and Computer Engineering. -->
-
-<!--* Soon to be PhD?-->
-
-<!-- I like to code.-->
+<form action="https://www.google.com/search" method="get" target="_blank">
+  <input type="text" name="q" placeholder="Search Google" />
+  <input type="submit" value="Search" />
+</form>
 
 <!--
 **bradleeharr/bradleeharr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
