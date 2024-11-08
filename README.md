@@ -2,6 +2,16 @@
 
 I'm Bradlee
 
+I hold a bachelor's degree in Electrical Engineering and recently a master's degree in Computer Engineering.
+
+I'm currently a Software Engineer at [CymSTAR](https://www.cymstar.com/).
+
+Interests:
+
+* Real-Time Processing
+* Signal Processing - Communications and Radar
+* Embedded Systems Development
+  
 <!--
 **bradleeharr/bradleeharr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
