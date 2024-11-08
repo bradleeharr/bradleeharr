@@ -10,6 +10,7 @@ Interests:
 
 * Real-Time Processing
 * Signal Processing - Communications and Radar
+* Information Theory
 * Embedded Systems Development
   
 <!--
