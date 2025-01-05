@@ -14,12 +14,12 @@ Interests:
 * Information Theory
 * Embedded Systems Development
 
-
+<!--
 
 [[TBD]]
 * https://www.bradlee.fun
 * https://bradleeharrison.com
-
+-->
 <!--
 **bradleeharr/bradleeharr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
