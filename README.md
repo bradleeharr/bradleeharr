@@ -2,7 +2,7 @@
 
 I'm Bradlee 
 
-I hold a a master's degree in Computer Engineering and a bachelor's degree in Electrical Engineering
+I hold a master's degree in Computer Engineering and a bachelor's degree in Electrical Engineering
 
 I'm currently a Software Engineer at [CymSTAR](https://www.cymstar.com/).
 
