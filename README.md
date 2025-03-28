@@ -14,6 +14,7 @@ Interests:
 * Information Theory
 * Embedded Systems Development
 
+I make a lot of half-baked projects, but each is special in its own way!
 <!--
 
 [[TBD]]
