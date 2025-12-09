@@ -13,7 +13,7 @@ Interests:
 * Signal Processing - Communications and Radar
 * Embedded Systems Development
 
-Currently working on : [Electrical FE Exam Prep](https://github.com/bradleeharr/ElectricalFEExamPrep)
+Currently working on : 
 <!--
 
 [[TBD]]
