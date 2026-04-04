@@ -1,6 +1,6 @@
-### Hi 👋
+<h1 align="center">Hi, I'm Bradlee </h1>
 
-I'm Bradlee 
+---
 
 I hold a master's degree in Computer Engineering and a bachelor's degree in Electrical Engineering
 
