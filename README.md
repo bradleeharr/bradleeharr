@@ -8,8 +8,8 @@ I'm currently a Software Engineer at [CymSTAR](https://www.cymstar.com/).
 
 Interests:
 
-* Web Development
 * Real-Time Processing
+* Web Development
 * Signal Processing - Communications and Radar
 * Embedded Systems Development
 
