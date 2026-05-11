@@ -9,10 +9,10 @@ I'm currently a Software Engineer at [CymSTAR](https://www.cymstar.com/).
 Interests:
 
 * Real-Time Processing
-* Web Development
-* Signal Processing - Communications and Radar
 * Embedded Systems Development
-
+* Signal Processing - Communications and Radar
+* Web Development
+  
 Currently working on : 
 Reading List :
 
