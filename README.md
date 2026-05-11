@@ -14,7 +14,9 @@ Interests:
 * Web Development
   
 Currently working on : 
-Reading List :
+
+* Reading List :
+  * Bash - Learning the bash Shell, 3rd Edition  
 
 <!--
 
